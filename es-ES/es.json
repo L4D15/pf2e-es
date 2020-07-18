@@ -212,6 +212,15 @@
     "ClassHP": "PG de Clase",
     "ClassTitle": "La clase de tu personaje",
     "ClickToSetInitiative": "Click to set initiative to selected token(s).",
+    "CompendiumBrowser": {
+      "Title": "Buscador del Compendio",
+      "TabAction": "Acciones",
+      "TabBestiary": "Bestiario",
+      "TabEquipment": "Equipo",
+      "TabFeat": "Dotes",
+      "TabSpell": "Conjuros",
+      "TabSettings": "Cargar Paquetes"
+    },
     "ConditionTypeBlinded": "Cegado",
     "ConditionTypeBroken": "Roto",
     "ConditionTypeClumsy": "Torpe",
@@ -368,6 +377,9 @@
     "FeatClassHeader": "Dotes de Clase",
     "FeatFeatSummary": "Resumen de Dotes",
     "FeatGeneralHeader": "Dotes Generales",
+    "FeatPFSBoonHeader": "Ayudas de Sociedad",
+    "FeatDeityBoonHeader": "Ayudas de Deidad",
+    "FeatCurseHeader": "Maldiciones",
     "FeatLevelLabel": "Nivel",
     "FeatPrereqLabel": "Requisitos",
     "FeatSkillHeader": "Dotes de Habilidad",
@@ -541,7 +553,7 @@
     "MaxStaminaTitle": "La cantidad máxima de puntos de vigor que puedes tener.",
     "MaxHitPointsHeader": "Puntos de Golpe Máximos",
     "ModifierTitle": "Modificador",
-    "ModifiersTitle": "Modificadores",
+    "ModifiersTitle": "Mods.",
     "ModifierType": {
       "ability": "Característica", 
       "proficiency": "Competencia", 
@@ -597,6 +609,7 @@
     "PreparationTypeSpontaneous": "Expontáneo",
     "PriceLabel": "Precio",
     "ProficiencyLabel": "Competencia",
+    "ProficiencyLevelUntrainedImprovisation": "Improvisación no entrenada",
     "ProficiencyLevel0": "No Entrenado",
     "ProficiencyLevel1": "Entrenado",
     "ProficiencyLevel2": "Experto",
@@ -616,8 +629,7 @@
       "critSuccess": "Reducir el valor de Moribundo en 2.",
       "failure": "Aumentar el valor de Moribundo en 1.",
       "roll": "Clic para lanzar la tirada de Recuperación",
-      "rollingPartA": "Lanzando tirada de Recuperación",
-      "rollingPartB": "contra CD",
+      "rollingDescription": "Tirada de Recuperación contra CD {dc} (dying {dying})",
       "success": "Reducir el valor de Moribundo en 1."
     },
     "RemoveSpellcastingEntryTitle": "Eliminar grupo de lanzamiento de conjuros",
@@ -639,7 +651,7 @@
         "name": "Iconos de Estados de Foundry"
       },
       "statusEffectShowCombatMessage": {
-        "hint": "Mostrar los estados del combatiente actual en el chat cada turno.",
+        "hint": "Mostrar los efectos de estado de los combatientes en el chat cada turno. Si to juego tiene más de un DM, esta opción debe estar activada por al menos uno de ellos.",
         "name": "Mostrar Estados de Efecto en Combate"
       },
       "statusEffectType": {
@@ -836,8 +848,10 @@
         "CriticalSuccess": "Un éxito, pero infliges el doble de daño.",
         "Success": "Infliges daño de acuerdo al arma usada, incluyendo modificadores, bonus y penalizadores que tengas al daño."
       },
+      "Fist": {
+        "Label": "Puño"
+      },
       "Unarmed": {
-        "Label": "Ataque Desarmado",
         "Description": "Atacas con un ataque desarmado, haciendo objetivo a una criatura a tu alcance. Lanza la tirada de ataque para el ataque desarmado y compara el resultado con la CA del objetivo para determinar el resultado.",
         "Success": "Infliges daño de acuerdo al ataque desarmado, incluyendo modificadores, bonus y penalizadores al daño que poseas."
       },
@@ -1220,6 +1234,7 @@
     "TraitLeshy": "Leshy",
     "TraitLight": "Ligero",
     "TraitLinguistic": "Lingüistico",
+    "TraitLitany": "Letanía",
     "TraitLizardfolk": "Saurio",
     "TraitMagical": "Mágica",
     "TraitManipulate": "Manipular",
@@ -1252,7 +1267,9 @@
     "TraitPlant": "Planta",
     "TraitPoison": "Veneno",
     "TraitPolymorph": "Polimorfar",
+    "TraitPossession": "Posesión",
     "TraitPotion": "Poción",
+    "TraitPrediction": "Predicción",
     "TraitPress": "Empuje",
     "TraitPrimal": "Primordial",
     "TraitPropulsive": "Propulsiva",
@@ -1305,6 +1322,7 @@
     "TraitReload0": "Recarga 0",
     "TraitReload1": "Recarga 1",
     "TraitReload2": "Recarga 2",
+    "TraitRevelation": "Revelación",
     "TraitRitual": "Ritual",
     "TraitRogue": "Pícaro",
     "TraitSaggorak": "Saggorak",
@@ -1318,6 +1336,7 @@
     "TraitSkill": "Habilidad",
     "TraitSnare": "Cepo",
     "TraitSonic": "sónico",
+    "TraitSleep": "Dormir",
     "TraitSorcerer": "Hechicero",
     "TraitSoulbound": "vinculado",
     "TraitSpirit": "espíritu",
@@ -1424,8 +1443,13 @@
     "WeaponAbilityLabel": "Atributo del arma",
     "WeaponBonusAttackLabel": "Bono de Ataque",
     "WeaponBonusDamageLabel": "Daño Extra",
+    "WeaponBaseDamageLabel": "Daño de Arma Base",
+    "WeaponBaseDamageTitle": "Esta sección gestiona el daño base del arma. Los dados adicionales provenientes de runas de Impacto no deben ser añadidos aquí, sino en la sección Runas del Arma.",
+    "WeaponRunesLabel": "Runas del Arma",
+    "WeaponMaterialLabel": "Creación del Arma",
     "WeaponCustomDamageLabel": "Daño Adicional Personalizado",
-    "WeaponDamageLabel": "Daño de Arma",
+    "WeaponCustomDamageTitle": "Esta sección gestiona cualquier daño no cubierto por el sistema de runas. Nota: Esta sección no funciona con las tiradas realizadas desde la pestaña 'Ataques'; los efectos de impacto y los efectos de crítico no son usados por el sistema y se muestran solo de forma informativa.",
+    "WeaponDamageLabel": "Daño Base",
     "WeaponDescriptionAxe": "Critical Specialization Effect: Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its potency rune, if any). This amount isn’t doubled, and no bonuses or other additional dice apply to this damage.",
     "WeaponDescriptionBomb": "Critical Specialization Effect: Increase the radius of the bomb’s splash damage (if any) to 10 feet.",
     "WeaponDescriptionBow": "Critical Specialization Effect: If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is immobilized and must spend an Interact action to attempt a DC 10 Athletics check to pull the missile free; it can’t move from its space until it succeeds. The creature doesn’t become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort",
@@ -1740,7 +1764,8 @@
       }
     },
     "ui": {
-      "armorEquipped": "Alternar el equipo"
+      "armorEquipped": "Alternar el equipo",
+      "sell": "Vender"
     },
 	"loot": {
       "LootNamePlaceholder": "Botín",
