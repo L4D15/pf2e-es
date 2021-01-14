@@ -1,0 +1,75 @@
+{
+    "label": "Ascendencias",
+    "entries": [
+        {
+            "id": "Catfolk",
+            "name": "Félido",
+            "description": ""
+        },
+        {
+            "id": "Dwarf",
+            "name": "Enano",
+            "description": ""
+        },
+        {
+            "id": "Elf",
+            "name": "Elfo",
+            "description": ""
+        },
+        {
+            "id": "Gnome",
+            "name": "Gnomo",
+            "description": ""
+        },
+        {
+            "id": "Halfling",
+            "name": "Mediano",
+            "description": ""
+        },
+        {
+            "id": "Hobgoblin",
+            "name": "Hobgoblin",
+            "description": ""
+        },
+        {
+            "id": "Human",
+            "name": "Humano",
+            "description": ""
+        },
+        {
+            "id": "Kobold",
+            "name": "Kobold",
+            "description": ""
+        },
+        {
+            "id": "Leshy",
+            "name": "Leshy",
+            "description": ""
+        },
+        {
+            "id": "Lizardfolk",
+            "name": "Saurio",
+            "description": ""
+        },
+        {
+            "id": "Orc",
+            "name": "Orco",
+            "description": ""
+        },
+        {
+            "id": "Ratfolk",
+            "name": "Rátido",
+            "description": ""
+        },
+        {
+            "id": "Shoony",
+            "name": "Shoony",
+            "description": ""
+        },
+        {
+            "id": "Tengu",
+            "name": "Tengu",
+            "description": ""
+        }
+    ]
+}

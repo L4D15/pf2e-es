@@ -13,7 +13,7 @@
     {
       "lang": "es",
       "name": "Español",
-      "path": "lang/es.json"
+      "path": "static/lang/es.json"
     }
   ],
   "url": "https://gitlab.com/L4D15/foundryvtt-pf2e-lang-es",
