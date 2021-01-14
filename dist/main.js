@@ -1,1 +1,0 @@
-Hooks.on("init",(()=>{"undefined"!=typeof Babele&&Babele.get().register({module:"",lang:"es",dir:"es-ES/compendium"})}));
