@@ -1,0 +1,393 @@
+{
+	"label": "Dotes de Ascendencia (SRD)",
+	"entries": {
+		"Aasimar": {
+			"name": "Aasimar",
+			"description": "<p>You descend from celestials or were touched by the celestial realms, gaining an air of awe and grace, as well as features distinctive to your celestial forebears. You gain the aasimar trait, in addition to the traits from your ancestry. You also gain @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}, or you gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision} if your ancestry already has low-light vision. You can choose from aasimar feats and feats from your ancestry whenever you gain an ancestry feat.</p>"
+		},
+		"Ancient Elf": {
+			"name": "Elfo Ancestral",
+			"description": "<p>In your long life, you've dabbled in many paths and many styles. Choose a class other than your own. You gain the multiclass dedication feat for that class, even though you don't meet its level prerequisite. You must still meet its other prerequisites to gain the feat.</p>"
+		},
+		"Ancient-Blooded Dwarf": {
+			"name": "Enano de sangre antiguao",
+			"description": "<p>Dwarven heroes of old could shrug off their enemies' magic, and some of that resistance manifests in you. You gain the @Compendium[pf2e.actionspf2e.8w6esW689NNbbq3i]{Call on Ancient Blood} reaction.</p>"
+		},
+		"Anvil Dwarf": {
+			"name": "Enano Forjador",
+			"description": "<p>You are a descendant of a famed crafter and have your own amazing talent. Other dwarves might consider this a blessing from your ancestors or from the Forgefather himself, depending on where you grew up. You become trained in Crafting (or another skill if you were already trained in Crafting) and gain the Specialty Crafting skill feat, but you can pick two different specialties instead of one.</p>\n<hr />\n<ul>\n<li>@Compendium[pf2e.feats-srd.XVnpntqV6w94PoOb]{Specialty Crafting (Alchemy)}</li>\n<li>@Compendium[pf2e.feats-srd.22HUfCajd6IkATOR]{Specialty Crafting (Artistry)}</li>\n<li>@Compendium[pf2e.feats-srd.S8mPrjJjuObotmjZ]{Specialty Crafting (Blacksmithing)}</li>\n<li>@Compendium[pf2e.feats-srd.59FN13nU6agKT4oa]{Specialty Crafting (Bookmaking)}</li>\n<li>@Compendium[pf2e.feats-srd.YmzLnj4ojlf9INNP]{Specialty Crafting (Glassmaking)}</li>\n<li>@Compendium[pf2e.feats-srd.WddEyALYHfpeUjZB]{Specialty Crafting (Leatherworking)}</li>\n<li>@Compendium[pf2e.feats-srd.8XC2xJ7Y1xlr6Xor]{Specialty Crafting (Pottery)}</li>\n<li>@Compendium[pf2e.feats-srd.tbIMWrIRI9P9cubM]{Specialty Crafting (Shipbuilding)}</li>\n<li>@Compendium[pf2e.feats-srd.TWkwy0uQvTGlgEFG]{Specialty Crafting (Stonemasonry)}</li>\n<li>@Compendium[pf2e.feats-srd.B06QKNvKYqxYGwPU]{Specialty Crafting (Tailoring)}</li>\n<li>@Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{Specialty Crafting (Weaving)}</li>\n<li>@Compendium[pf2e.feats-srd.YvoiGWZhtbHH6NMF]{Specialty Crafting (Woodworking)}</li>\n</ul>"
+		},
+		"Aquatic Adaptation": {
+			"name": "Adaptación Acuática",
+			"description": "<p>Your reptilian biology allows you to hold your breath for a long time. You gain the @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Breath Control} general feat as a bonus feat.</p>"
+		},
+		"Arctic Elf": {
+			"name": "Elfo Ártico",
+			"description": "<p>You dwell deep in the frozen north and have gained incredible resilience against cold environments, granting you cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).</p>"
+		},
+		"Badlands Orc": {
+			"name": "Orco de las tierras baldías",
+			"description": "<p>You come from sun-scorched badlands, where long legs and an ability to withstand the elements helped you thrive. You can @Compendium[pf2e.actionspf2e.JuqmIAnkL9hVGai8]{Hustle} twice as long while exploring before you have to stop, and you treat environmental heat effects as if they were one step less extreme (incredible heat becomes extreme, extreme heat becomes severe, and so on).</p>"
+		},
+		"Bloodhound Shoony": {
+			"name": "Bloodhound Shoony",
+			"description": "<p>Your ancestors were famous trackers, and you carry in your blood that same gift of the hunt. You gain a special sense: imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine the location of a creature, but it remains @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden}. In addition, you gain a +2 circumstance bonus to Survival checks to @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Track} creatures that you have previously sensed with your scent.</p>"
+		},
+		"Blunt Snout": {
+			"name": "Blunt Snout",
+			"description": "<p>Your small, blunt snout and labyrinthine sinus system make you resistant to phenomena that assail the nose. When you roll a saving throw against inhaled threats (such as inhaled poisons) and olfactory effects (such as xulgath stench), you get the outcome one degree of success better than the result of your roll.</p>"
+		},
+		"Cavern Elf": {
+			"name": "Elfo Cavernario",
+			"description": "<p>You were born or spent many years in underground tunnels or caverns where light is scarce. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>"
+		},
+		"Cavern Kobold": {
+			"name": "Kobold Cavernario",
+			"description": "<p>You hatched into a warren among narrow tunnels and countless kin. Your body is flexible. When @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climbing} rock walls, stalactites, and other natural stone features, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have @Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]{Quick Climb}). This doesn't affect you if you're using a climb Speed. If you roll a success on an Acrobatics check to @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Squeeze}, you get a critical success instead.</p>"
+		},
+		"Chameleon Gnome": {
+			"name": "Gnomo Camaleónico",
+			"description": "<p>The color of your hair and skin is mutable, possibly due to latent magic. You can slowly change the vibrancy and the exact color, and the coloration can be different across your body, allowing you to create patterns or other colorful designs. It takes a single action for minor localized shifts and up to an hour for dramatic shifts throughout your body. While you're asleep, the colors shift on their own in tune with your dreams, giving you an unusual coloration each morning. When you're in an area where your coloration is roughly similar to the environment (for instance, forest green in a forest), you can use the single action to make minor localized shifts designed to help you blend into your surroundings. This grants you a +2 circumstance bonus to Stealth checks until your surroundings shift in coloration or pattern.</p>"
+		},
+		"Changeling": {
+			"name": "Cambiaformas",
+			"description": "<p>Your mother was a hag. Your heterochromatic eyes are the most obvious signifier of this parentage, but you likely also have a slighter build, paler skin, and darker hair than most members of your other parent's ancestry. You gain the changeling trait. You also gain @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}, or you gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision} if your ancestry already has low-light vision. You can select from changeling feats and feats from your other parent's ancestry whenever you gain an ancestry feat.</p>"
+		},
+		"Charhide Goblin": {
+			"name": "Charhide Goblin",
+			"description": "<p>Your ancestors have always had a connection to fire and a thicker skin, which allows you to resist burning. You gain fire resistance equal to half your level (minimum 1). You can also recover from being on fire more easily. Your flat check to remove persistent fire damage is DC 10 instead of DC 15, which is reduced to DC 5 if another creature uses a particularly appropriate action to help.</p>"
+		},
+		"Clawed Catfolk": {
+			"name": "Clawed Catfolk",
+			"description": "<p>Your family has particularly long, sharp claws capable of delivering bleeding wounds with a wicked swipe. You gain a claw unarmed attack that deals <a class=\"inline-roll roll\" title=\"slashing\" data-mode=\"roll\" data-flavor=\"slashing\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i> 1d6</a> slashing damage. Your claws are in the brawling group and have the agile, finesse and unarmed traits.</p>"
+		},
+		"Claws": {
+			"name": "Garras",
+			"description": "<p>Your sharp claws offer an alternative to the fists other humanoids bring to a fight. You have a claw unarmed attack that deals <a class=\"inline-roll roll\" title=\"slashing\" data-mode=\"roll\" data-flavor=\"slashing\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i> 1d4</a> slashing damage and has the agile and finesse traits.</p>"
+		},
+		"Cliffscale Lizardfolk": {
+			"name": "Cliffscale Lizardfolk",
+			"description": "<p>Your toes are adapted for gripping and climbing. You gain the @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combat Climber} feat as a bonus feat, and as long as you aren't wearing footwear, you can use the sticky pads on your feet to climb, leaving your hands free. Additionally, if you roll a success on an Athletics check to climb, you get a critical success instead.</p>"
+		},
+		"Darkvision": {
+			"name": "Visión en la Oscuridad",
+			"description": "<p>You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.</p>"
+		},
+		"Death Warden Dwarf": {
+			"name": "Enano guardián de la muerte",
+			"description": "<p>Your ancestors have been tomb guardians for generations, and the power they cultivated to ward off necromancy has passed on to you. If you roll a success on a saving throw against a necromancy effect, you get a critical success instead.</p>"
+		},
+		"Deep Orc": {
+			"name": "Deep Orc",
+			"description": "<p>Your calloused hands and red eyes speak to a life spent in the deep darkness of mountain caverns, where you learned to battle on rocky cliffs and survive with minimal resources. You gain the @Compendium[pf2e.feats-srd.4tTkRyOQ0VuRBac3]{Terrain Expertise} skill feat for underground terrain and the @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combat Climber} skill feat.</p>"
+		},
+		"Deep Rat": {
+			"name": "Deep Rat",
+			"description": "<p>Your ancestors lived deeper underground than other ratfolk, granting you the ability to see in the dark. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>"
+		},
+		"Desert Elf": {
+			"name": "Elfo del desierto",
+			"description": "<p>You live under the desert's blazing heat, gaining incredible resilience to warm environments. You gain fire resistance equal to half your level (minimum 1), and environmental heat effects are one step less extreme for you (incredible heat becomes extreme, extreme heat becomes severe, and so on).</p>"
+		},
+		"Desert Rat": {
+			"name": "Rata del desierto",
+			"description": "<p>You are native to arid plains and likely grew up traveling the roads. You have a leaner build than other ratfolk, with longer limbs and short fur. If you have both hands free, you can increase your Speed to 30 feet as you run on all fours. In addition, environmental heat effects are one step less extreme for you, and you can go 10 times as long as normal before you are affected by starvation or thirst. However, unless you wear protective gear or take shelter, environmental cold effects are one step more extreme for you.</p>"
+		},
+		"Dhampir": {
+			"name": "Dhampiro",
+			"description": "<p>You are the scion of a vampire, half living and half undead, gifted with uncanny charm and grace, a bloodless pallor, and elongated incisors. You gain the dhampir trait, in addition to the traits from your ancestry. You have the negative healing ability, which means you are harmed by positive damage and healed by negative effects as if you were undead. You also gain @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}, or you gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision} if your ancestry already has low-light vision. You can choose from dhampir feats and feats from your ancestry whenever you gain an ancestry feat.</p>"
+		},
+		"Draconic Exemplar": {
+			"name": "Draconic Exemplar",
+			"description": "<p>You draw minor powers from your draconic exemplar. Choose a type of chromatic or metallic dragon to be your exemplar. This determines your scale color and appearance, and dragons sometimes look more favorably upon those kobolds who resemble them, at the GM's discretion. Your exemplar may also determine details of other abilities you have, using the Draconic Exemplars table.</p>\n<h3><strong>Table 1-1 Draconic Exemplars</strong></h3>\n<table style=\"width: 365px; height: 170px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 34px;\">\n<td style=\"width: 61px; height: 34px;\"><strong>Dragon</strong></td>\n<td style=\"width: 104px; height: 34px;\"><strong>Breath Weapon Shape</strong></td>\n<td style=\"width: 86px; height: 34px;\"><strong>Damage Type</strong></td>\n<td style=\"width: 101px; height: 34px;\"><strong>Saving Throw</strong></td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Black</td>\n<td style=\"width: 104px; height: 17px;\">Line</td>\n<td style=\"width: 86px; height: 17px;\">Acid</td>\n<td style=\"width: 101px; height: 17px;\">Reflex</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Blue</td>\n<td style=\"width: 104px; height: 17px;\">Line</td>\n<td style=\"width: 86px; height: 17px;\">Electricity</td>\n<td style=\"width: 101px; height: 17px;\">Reflex</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Green</td>\n<td style=\"width: 104px; height: 17px;\">Cone</td>\n<td style=\"width: 86px; height: 17px;\">Poison</td>\n<td style=\"width: 101px; height: 17px;\">Fortitude</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Red</td>\n<td style=\"width: 104px; height: 17px;\">Cone</td>\n<td style=\"width: 86px; height: 17px;\">Fire</td>\n<td style=\"width: 101px; height: 17px;\">Reflex</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">White</td>\n<td style=\"width: 104px; height: 17px;\">Cone</td>\n<td style=\"width: 86px; height: 17px;\">Cold</td>\n<td style=\"width: 101px; height: 17px;\">Reflex</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Brass</td>\n<td style=\"width: 104px; height: 17px;\">Line</td>\n<td style=\"width: 86px; height: 17px;\">Fire</td>\n<td style=\"width: 101px; height: 17px;\">Reflex</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Bronze</td>\n<td style=\"width: 104px; height: 17px;\">Line</td>\n<td style=\"width: 86px; height: 17px;\">Electricity</td>\n<td style=\"width: 101px; height: 17px;\">Reflex</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 61px; height: 17px;\">Copper</td>\n<td style=\"width: 104px; height: 17px;\">Line</td>\n<td style=\"width: 86px; height: 17px;\">Acid</td>\n<td style=\"width: 101px; height: 17px;\">Reflex</td>\n</tr>\n<tr>\n<td style=\"width: 61px;\">Gold</td>\n<td style=\"width: 104px;\">Cone</td>\n<td style=\"width: 86px;\">Fire</td>\n<td style=\"width: 101px;\">Reflex</td>\n</tr>\n<tr>\n<td style=\"width: 61px;\">Silver</td>\n<td style=\"width: 104px;\">Cone</td>\n<td style=\"width: 86px;\">Cold</td>\n<td style=\"width: 101px;\">Reflex</td>\n</tr>\n</tbody>\n</table>\n<p></p>"
+		},
+		"Dragonscaled Kobold": {
+			"name": "Dragonscaled Kobold",
+			"description": "<p>Your scales are especially colorful, possessing some of the same resistance a dragon possesses. You gain resistance equal to half your level (minimum 1) to the damage type associated with your @Compendium[pf2e.ancestryfeatures.egpiSWBrNBb1Fmig]{Draconic Exemplar}. Double this resistance against dragons' Breath Weapons.</p>"
+		},
+		"Duskwalker": {
+			"name": "Crepuscular",
+			"description": "<p>Thanks to an ancient bargain, your soul has been reborn<br />as a duskwalker, a planar scion with a connection to<br />psychopomps and the Boneyard. You gain the duskwalker<br />trait in addition to the traits from your ancestry. You<br />also gain @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}, or you gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}if your<br />ancestry already has low-light vision. Neither your body<br />nor your spirit can ever become undead. You can choose<br />from duskwalker feats and feats from your ancestry<br />whenever you gain an ancestry feat.</p>"
+		},
+		"Elemental Heart Dwarf": {
+			"name": "Elemental Heart Dwarf",
+			"description": "<p>Whether through a connection to @Compendium[pf2e.deities.sZrdzh0ANQnZGXJb]{Torag's} forge, the azers of the Plane of Fire, or another source, you can exude a burst of energy. Mbe'ke and Taralu dwarves of the Mwangi Expanse believe this heritage is a gift from dragons or elemental spirits. Choose one of the following damage types: acid, cold, electricity, or fire. Once chosen, this can't be changed. You gain the @Compendium[pf2e.actionspf2e.7qjfYsLNTr17Aftf]{Energy Emanation} activity.</p>"
+		},
+		"Elfbane Hobgoblin": {
+			"name": "Elfbane Hobgoblin",
+			"description": "<p>Hobgoblins were engineered long ago from the unreliable and fecund goblins, to be used as an army against the elves. Although the elves ultimately freed the hobgoblins from their bondage, some hobgoblins retain ancestral resistance to magic, which they refer to as \"elf magic.\" You gain the @Compendium[pf2e.actionspf2e.On5CQjX4euWqToly]{Resist Elf Magic} reaction.</p>"
+		},
+		"Fey-Touched Gnome": {
+			"name": "Fey-Touched Gnome",
+			"description": "<p>The blood of the fey is so strong within you that you're truly one of them. You gain the fey trait, in addition to the gnome and humanoid traits. Choose one cantrip from the primal spell list. You can cast this spell as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. You can change this cantrip to a different one from the same list once per day by meditating to realign yourself with the First World; this is a 10-minute activity that has the concentrate trait.</p>"
+		},
+		"Fishseeker Shoony": {
+			"name": "Fishseeker Shoony",
+			"description": "<p>You come from a long line of fisherfolk and have inherited the quick reflexes necessary to nab and reel in big game. If you roll a success on an attempt to @Compendium[pf2e.actionspf2e.3yoajuKjwHZ9ApUY]{Grab an Edge}, you get a critical success instead; if you roll a critical failure, you get a failure instead. A creature that rolls a failure on a check to @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Disarm} you gets a critical failure instead.</p>"
+		},
+		"Forge Dwarf": {
+			"name": "Enano de la forja",
+			"description": "<p>You have a remarkable adaptation to hot environments from ancestors who inhabited blazing deserts or volcanic chambers beneath the earth. This grants you fire resistance equal to half your level (minimum 1), and you treat environmental heat effects as if they were one step less extreme (incredible heat becomes extreme, extreme heat becomes severe, and so on).</p>"
+		},
+		"Frilled Lizardfolk": {
+			"name": "Frilled Lizardfolk",
+			"description": "<p>You can flare your neck frill and flex your dorsal spines, Demoralizing your foes. When you do, Demoralize loses the auditory trait and gains the visual trait, and you don't take a penalty when you attempt to Demoralize a creature that doesn't understand your language. You also gain the @Compendium[pf2e.actionspf2e.W4M8L9WepGLamlHs]{Threatening Approach} action.</p>"
+		},
+		"Fungus Leshy": {
+			"name": "Leshy fúngico",
+			"description": "<p>Your body was made from fungi that grows in the shade of caves and trees, and you are at home in dark caverns and warrens. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>"
+		},
+		"Gourd Leshy": {
+			"name": "Leshy calabacino",
+			"description": "<p>You have a large gourd for a skull. Your knowledge comes from within your spirit, rather than a physical brain, and you have found a handier use for the space inside your head. You can store a collection of up to 1 Bulk of objects within your head. The DC of checks to @Compendium[pf2e.actionspf2e.RDXXE7wMrSPCLv5k]{Steal} objects from inside your head increases by 4. Additionally, if you store only one object within your head, you can draw it effortlessly into your hand as part of another action to use the object. Drawing the item grants this other action the manipulate trait.</p>"
+		},
+		"Gutsy Halfling": {
+			"name": "Mediano valiente",
+			"description": "<p>Your family line is known for keeping a level head and staving off fear when the chips were down, making them wise leaders and sometimes even heroes. When you roll a success on a saving throw against an emotion effect, you get a critical success instead.</p>"
+		},
+		"Half-Elf": {
+			"name": "Semi-elfo",
+			"description": "<p>Either one of your parents was an elf, or one or both were half-elves. You have pointed ears and other telltale signs of elf heritage. You gain the elf trait and @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}. In addition, you can select elf, half-elf, and human feats whenever you gain an ancestry feat.</p>"
+		},
+		"Half-Orc": {
+			"name": "Semi-orco",
+			"description": "<p>One of your parents was an orc, or one or both were half-orcs. You have a green tinge to your skin and other indicators of orc heritage. You gain the orc trait and @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}. In addition, you can select orc, half-orc, and human feats whenever you gain an ancestry feat.</p>"
+		},
+		"Hillock Halfling": {
+			"name": "Mediano altozano",
+			"description": "<p>Accustomed to a calm life in the hills, your people find rest and relaxation especially replenishing, particularly when indulging in creature comforts. When you regain Hit Points overnight, add your level to the Hit Points regained. When anyone uses the Medicine skill to @Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{Treat your Wounds}, you can eat a snack to add your level to the Hit Points you regain from their treatment.</p>"
+		},
+		"Hold-Scarred Orc": {
+			"name": "Hold-Scarred Orc",
+			"description": "<p>You are part of an orc community that participates in ritual scarification or tattooing. The marks on your skin show your exceptional hardiness and vitality. You gain 12 Hit Points from your ancestry instead of 10. You also gain the @Compendium[pf2e.feats-srd.I0BhPWqYf1bbzEYg]{Diehard} feat.</p>"
+		},
+		"Hunting Catfolk": {
+			"name": "Félido cazador",
+			"description": "<p>You come from a long line of skilled hunters and trackers and have a particularly keen sense of smell. You gain imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine a creature's location, as explained on page 456 of the Core Rulebook. The GM will usually double the range if you're downwind from the creature or halve the range if you're upwind.</p>\n<p>In addition, you gain a +2 circumstance bonus to @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Track} a creature or object if you've smelled it before.</p>"
+		},
+		"Irongut Goblin": {
+			"name": "Goblin tripas de hierro",
+			"description": "<p>You can @Compendium[pf2e.actionspf2e.49y9Ec4bDii8pcD3]{Subsist}on food that most folks would consider spoiled. You can keep yourself fed with poor meals in a settlement as long as garbage is readily available, without using the subsist downtime activity. You can eat and drink things when you are @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened}.<br /></p>\n<p>You gain a +2 circumstance bonus to saving throws against afflictions, against gaining the sickened condition, and to remove the sickened condition. When you roll a success on a Fortitude save affected by this bonus, you get a critical success instead. All these benefits apply only when the affliction or condition resulted from something you ingested.</p>"
+		},
+		"Jinxed Halfling": {
+			"name": "Mediano maldecido",
+			"description": "<p>You were born with a strange blessing: bereft of the typical halfling luck, you can instead manipulate the fortunes of others. You can never take the @Compendium[pf2e.feats-srd.ZbRVqf14RTJJIZXG]{Halfling Luck} feat, and you gain the @Compendium[pf2e.actionspf2e.hFRHPBj6wjAayNtW]{Jinx} action.</p>"
+		},
+		"Jinxed Tengu": {
+			"name": "Tengu maldecido",
+			"description": "<p>Your lineage has been exposed to curse after curse, and now, they slide off your feathers like rain. If you succeed at a saving throw against a curse or misfortune effect, you get a critical success instead.</p>\n<p>When you would gain the @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Doomed} condition, attempt a <a class=\"inline-roll roll\" title=\"DC 17 flat check\" data-mode=\"roll\" data-flavor=\"DC 17 flat check\" data-formula=\"1d20\"> 1d20</a> DC 17 flat check. On a success, reduce the value of the doomed condition you would gain by 1.</p>"
+		},
+		"Jungle Catfolk": {
+			"name": "Félido de la jungla",
+			"description": "<p>You're descended from jungle stalkers and can move swiftly through scrub and underbrush. You ignore difficult terrain from undergrowth, and greater difficult terrain from undergrowth is only difficult terrain for you.</p>"
+		},
+		"Keen Eyes": {
+			"name": "Buen ojo",
+			"description": "<p>Your eyes are sharp, allowing you to make out small details about concealed or even invisible creatures that others might miss. You gain a +2 circumstance bonus when using the @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} action to find @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden} or @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected} creatures within 30 feet of you. When you target an opponent that is @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.</p>"
+		},
+		"Land on Your Feet": {
+			"name": "Caer de pie",
+			"description": "<p>When you fall, you take only half the normal damage and don't land @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>"
+		},
+		"Leaf Leshy": {
+			"name": "Leshy de hoja",
+			"description": "<p>Your body is made mostly from natural foliage, and like a leaf tumbling from a tree, you land from falls with particular grace. You take no damage from falling, regardless of the distance you fall.</p>"
+		},
+		"Longsnout Rat": {
+			"name": "Longsnout Rat",
+			"description": "<p>The long snouts that run in your family give you a keener sense of smell than most ratfolk. You gain imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine a creature's location, as explained on page 465 of the Core Rulebook. The GM will usually double the range if you're downwind from the creature or halve the range if you're upwind.</p>\n<p>In addition, you gain a +2 circumstance bonus to Perception checks to @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} a creature or object within the range of your scent.</p>"
+		},
+		"Low-Light Vision": {
+			"name": "Visión en la Penumbra",
+			"description": "<p>A creature with low-light vision can see in dim light as though it were bright light, so it ignores the @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition due to dim light.</p>"
+		},
+		"Mountainkeeper Tengu": {
+			"name": "Tengo guarda montañas ",
+			"description": "<p><span id=\"docs-internal-guid-11f12efa-7fff-e078-516e-02b4416b3602\">You come from a line of tengu ascetics, leaving you with a link to the spirits of the world and the Great Beyond. You can cast the @Compendium[pf2e.spells-srd.kcelf6IHl3L9VXXg]{Disrupt Undead} cantrip as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. </span></p>\n<p><span id=\"docs-internal-guid-11f12efa-7fff-e078-516e-02b4416b3602\">Each time you cast a spell from a tengu heritage or ancestry feat, you can decide whether it's a divine or primal spell.</span></p>"
+		},
+		"Nine Lives Catfolk": {
+			"name": "Félido nueve vidas",
+			"description": "<p>Your family has always seemed to bound back from disaster, not through physical hardiness or specialized skill, but from sheer luck. Other catfolk whisper that you have nine lives.</p>\n<p>If you are reduced to 0 Hit Points by a critical hit on an attack roll, you become @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Dying} 1 instead of dying 2.</p>"
+		},
+		"Nomadic Halfling": {
+			"name": "Mediano nómada",
+			"description": "<p>Your ancestors have traveled from place to place for generations, never content to settle down. You gain two additional languages of your choice, chosen from among the common and uncommon languages available to you, and every time you take the @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Multilingual} feat, you gain another new language.</p>"
+		},
+		"Oathkeeper Dwarf": {
+			"name": "Enano juramentado",
+			"description": "<p>Growing up, you never tried to lie to get what you wanted, and even when necessary, lying makes you uncomfortable. The especially faithful might even have thought that you were blessed by the dwarven god of duty, @Compendium[pf2e.deities.zhPhYge7VJbIlJvA]{Kols}. You gain a +1 circumstance bonus to Perception checks to @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Sense Motive} and to Perception DCs against attempts to @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Lie} to you. Furthermore, you gain a +2 circumstance bonus to Diplomacy checks to convince others you speak the truth when you are telling the truth, and you take a -4 circumstance penalty to lie and to your Deception DC against @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Sense Motive}.</p>"
+		},
+		"Observant Halfling": {
+			"name": "Mediano observador",
+			"description": "<p>Your finely honed senses quickly clue you in to danger or trickery. You gain a +1 circumstance bonus to your Perception DC, though not to your Perception checks.</p>"
+		},
+		"Paddler Shoony": {
+			"name": "Paddler Shoony",
+			"description": "<p>You hail from shoonies who have lived long and successfully among the reeds and cattails of swamps and marshes, and have adapted to the challenges of living near waterlogged areas. You ignore difficult terrain and greater difficult terrain from bogs. When you roll a success to @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Swim}, you get a critical success instead.</p>"
+		},
+		"Plant Nourishment": {
+			"name": "Nutrición vegetal",
+			"description": "<p>You gain nourishment in the same way that the plants or fungi that match your body type normally do, through some combination of photosynthesis, absorbing minerals with your roots, or scavenging decaying matter. You typically do not need to pay for food. If you normally rely on photosynthesis and go without sunlight for 1 week, you begin to starve. You can derive nourishment from specially formulated bottles of sunlight instead of natural sunlight, but these bottles cost 10 times as much as standard rations (or 40 sp).</p>"
+		},
+		"Rainfall Orc": {
+			"name": "Rainfall Orc",
+			"description": "<p>You were born in a rain forest with only tangles of trees<br />providing protection from torrential rainstorms and flash<br />floods. You've learned to move adeptly through jungle<br />terrain and resist the various ailments common in humid<br />environs. You gain a +2 circumstance bonus to Athletics<br />checks to @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climb}or @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Swim}and a +1 circumstance bonus to<br />saving throws against diseases.</p>"
+		},
+		"Razortooth Goblin": {
+			"name": "Goblin dientes afiliados",
+			"description": "<p>Your family's teeth are formidable weapons. You gain a jaws unarmed attack that deals <a class=\"inline-roll roll\" title=\"piercing\" data-mode=\"roll\" data-flavor=\"piercing\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i> 1d6</a> piercing damage. Your jaws are in the brawling group and have the finesse and unarmed traits.</p>"
+		},
+		"Rock Dwarf": {
+			"name": "Enano de la roca",
+			"description": "<p>Your ancestors lived and worked among the great ancient stones of the mountains or the depths of the earth. This makes you solid as a rock when you plant your feet. You gain a +2 circumstance bonus to your Fortitude or Reflex DC against attempts to @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove} or @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trip} you. This bonus also applies to saving throws against spells or effects that attempt to knock you @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>\n<p>In addition, if any effect would force you to move 10 feet or more, you are moved only half the distance.</p>"
+		},
+		"Runtboss Hobgoblin": {
+			"name": "Runtboss Hobgoblin",
+			"description": "<p>You come from a long line of hobgoblins who commanded goblins. You are smaller than other hobgoblins, but goblins still listen to any commands you bellow. You gain the @Compendium[pf2e.feats-srd.gUqvezs2zzoTXFAI]{Group Coercion} skill feat. If you roll a success on an Intimidation check to @Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]{Coerce} a goblin (but not other creatures with the goblin trait), you get a critical success instead; if you roll a critical failure, you get a failure instead.</p>"
+		},
+		"Sandstrider Lizardfolk": {
+			"name": "Sandstrider Lizardfolk",
+			"description": "<p>Your thick scales help you retain water and combat the sun's glare. You gain fire resistance equal to half your level (minimum 1). Environmental heat effects are one step less extreme for you, and you can go 10 times as long as normal before you are affected by starvation or thirst. However, unless you wear protective gear or take shelter, environmental cold effects are one step more extreme for you.</p>"
+		},
+		"Seer Elf": {
+			"name": "Elfo vidente",
+			"description": "<p>You have an inborn ability to detect and understand magical phenomena. You can cast the @Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Detect Magic} cantrip as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.</p>\n<p>In addition, you gain a +1 circumstance bonus to checks to @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identify Magic} and to @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Decipher Writing} of a magical nature. These skill actions typically use the Arcana, Nature, Occultism, or Religion skill.</p>"
+		},
+		"Sensate Gnome": {
+			"name": "Gnomo sensible",
+			"description": "<p>You see all colors as brighter, hear all sounds as richer, and especially smell all scents with incredible detail. You gain a special sense: imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine the exact location of a creature. The GM will usually double the range if you're downwind from the creature or halve the range if you're upwind.</p>\n<p>In addition, you gain a +2 circumstance bonus to Perception checks whenever you're trying to locate an undetected creature that is within the range of your scent.</p>"
+		},
+		"Sewer Rat": {
+			"name": "Sewer Rat",
+			"description": "<p>You come from a long line of ysoki from a community based in the sewers beneath a large settlement. You are immune to the disease filth fever. Each of your successful saving throws against a disease or poison reduces its stage by 2, or by 1 for a virulent disease or poison. Each critical success against an ongoing disease or poison reduces its stage by 3, or by 2 for a virulent disease or poison.</p>"
+		},
+		"Shadow Rat": {
+			"name": "Shadow Rat",
+			"description": "<p>Your ancestors lived in dark spaces underground, granting you dark fur and a vaguely unnatural mien that unnerves sapient creatures and frightens animals. You gain the trained proficiency rank in Intimidation and can use Intimidation to @Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]{Coerce} animals. When you @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Demoralize} an animal, you don't take a penalty for not sharing a language with it. If you would automatically become trained in Intimidation (from your background or class, for example), you become trained in another skill of your choice.</p>\n<p>Animals' attitudes toward you begin one degree worse<br />than normal, usually starting at unfriendly instead of<br />indifferent for domesticated animals, and hostile instead<br />of unfriendly for wild animals.</p>"
+		},
+		"Sharp Beak": {
+			"name": "Sharp Beak",
+			"description": "<p>With your Sharp Beak, you are never without a weapon. You have a beak unarmed attack that deals <a class=\"inline-roll roll\" title=\"piercing\" data-mode=\"roll\" data-flavor=\"piercing\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i> 1d6</a> piercing damage. Your beak is in the brawling weapon group and has the finesse and unarmed traits.</p>"
+		},
+		"Skilled Heritage": {
+			"name": "Herencia hábil",
+			"description": "<p>Your ingenuity allows you to train in a wide variety of skills. You become trained in one skill of your choice. At 5th level, you become an expert in the chosen skill.</p>"
+		},
+		"Skyborn Tengu": {
+			"name": "Skyborn Tengu",
+			"description": "<p>Your bones may be especially light, you may be a rare tengu with wings, or your connection to the spirits of wind and sky might be stronger than most, slowing your descent through the air. You take no damage from falling, regardless of the distance you fall.</p>"
+		},
+		"Smokeworker Hobgoblin": {
+			"name": "Smokeworker Hobgoblin",
+			"description": "<p>Your family have been alchemists, engineers, and scientists for generations, on projects bringing smoke and fire to the field of battle. You gain fire resistance equal to half your level (minimum 1). You automatically succeed at the DC 5 flat check to target a @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed}creature if that creature is Concealed only by smoke.</p>"
+		},
+		"Snow Goblin": {
+			"name": "Goblin de la nieve",
+			"description": "<p>You are acclimated to living in frigid lands and have skin ranging from sky blue to navy in color, as well as blue fur. You gain cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).</p>"
+		},
+		"Spellscale Kobold": {
+			"name": "Spellscale Kobold",
+			"description": "<p>A trace of draconic magic flows through your veins. Choose one cantrip from the arcane spell list (Core Rulebook 307). You can Cast this Spell as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. You gain the trained proficiency rank in arcane spell attack rolls and spell DCs, and your key spellcasting ability is Charisma.</p>"
+		},
+		"Stormtossed Tengu": {
+			"name": "Stormtossed Tengu",
+			"description": "<p><span id=\"docs-internal-guid-86da5438-7fff-95ca-40da-9c43890897f2\"></span></p>\n<p dir=\"ltr\">Whether due to a blessing from Hei Feng or hatching from your egg during a squall, you are resistant to storms. You gain electricity resistance equal to half your level (minimum 1).</p>\n<p dir=\"ltr\">You automatically succeed at the flat check to target a @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} creature if that creature is concealed only by rain or fog.</p>"
+		},
+		"Strong-Blooded Dwarf": {
+			"name": "Enano de sangre fuerte",
+			"description": "<p>Your blood runs hearty and strong, and you can shake off toxins. You gain poison resistance equal to half your level (minimum 1), and each of your successful saving throws against a poison affliction reduces its stage by 2, or by 1 for a virulent poison. Each critical success against an ongoing poison reduces its stage by 3, or by 2 for a virulent poison.</p>"
+		},
+		"Strongjaw Kobold": {
+			"name": "Strongjaw Kobold",
+			"description": "<p>Your bloodline is noted for their powerful jaws and sharp teeth. You gain a jaws unarmed attack that deals <a class=\"inline-roll roll\" title=\"piercing\" data-mode=\"roll\" data-flavor=\"piercing\" data-formula=\"1d6\"><i class=\"fas fa-dice-d20\"></i> 1d6</a> piercing damage. Your jaws are in the brawling group and have the finesse and unarmed traits</p>"
+		},
+		"Tailed Goblin": {
+			"name": "Goblin con cola",
+			"description": "<p>You have a powerful tail, likely because you descend from a community of monkey goblins. You gain a +2 circumstance bonus to Athletics checks to @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climb}, you gain @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combat Climber}as a bonus feat, and you reduce the number of free hands required to climb or @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trip}by one.</p>"
+		},
+		"Taloned Tengu": {
+			"name": "Taloned Tengu",
+			"description": "<p><span id=\"docs-internal-guid-86da5438-7fff-95ca-40da-9c43890897f2\"></span></p>\n<p dir=\"ltr\">Your talons are every bit as sharp and strong as your beak. You gain a talon unarmed attack that deals <a class=\"inline-roll roll\" title=\"slashing\" data-mode=\"roll\" data-flavor=\"slashing\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i> 1d4</a> slashing damage. Your talons are in the brawling group, and have the agile, finesse, unarmed and versatile piercing traits.</p>"
+		},
+		"Thickcoat Shoony": {
+			"name": "Thickcoat Shoony",
+			"description": "<p>You are a rare shoony who hails from colder climes. You gain cold resistance equal to half your level (minimum 1), and you treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on). You don't need to succeed at a flat check to target a concealed creature if that creature is @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} only by snow. Unless you wear protective gear or take shelter, environmental heat effects are one step more extreme for you.</p>"
+		},
+		"Tiefling": {
+			"name": "Tiefling",
+			"description": "<p>You descend from fiends or bear the mark of the fiendish realms, manifesting as some unusual feature that belies your heritage, such as horns or a tail. You gain the tiefling trait, in addition to the traits from your ancestry. You also gain @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}, or you gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision} if your ancestry already has low-light vision. You can choose from tiefling feats and feats from your ancestry whenever you gain an ancestry feat.</p>"
+		},
+		"Treedweller Goblin": {
+			"name": "Treedweller Goblin",
+			"description": "<p>You have adapted particularly well to living in forested environments. As long as you are in a forest or jungle, you gain a +2 circumstance bonus to Stealth checks to @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Hide}and @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak}, Survival checks to @Compendium[pf2e.actionspf2e.49y9Ec4bDii8pcD3]{Subsist}, and your Survival DC to @Compendium[pf2e.actionspf2e.SB7cMECVtE06kByk]{Cover Tracks}.</p>"
+		},
+		"Twilight Halfling": {
+			"name": "Mediano del crepúsculo",
+			"description": "<p>Your ancestors performed many secret acts under the concealing cover of dusk, whether for good or ill, and over time they developed the ability to see in twilight beyond even the usual keen sight of halflings. You gain @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}.</p>"
+		},
+		"Umbral Gnome": {
+			"name": "Gnomo sombrío",
+			"description": "<p>Whether from a connection to dark or shadowy fey, from the underground deep gnomes also known as svirfneblin, or another source, you can see in complete darkness. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>"
+		},
+		"Unbreakable Goblin": {
+			"name": "Goblin irrompible",
+			"description": "<p>You're able to bounce back from injuries easily due to an exceptionally thick skull, cartilaginous bones, or some other mixed blessing. You gain 10 Hit Points from your ancestry instead of 6. When you fall, reduce the falling damage you take as though you had fallen half the distance.</p>"
+		},
+		"Unseen Lizardfolk": {
+			"name": "Unseen Lizardfolk",
+			"description": "<p>You can change your skin color to blend in with your surroundings, making minor shifts with a single action and dramatic changes over the course of an hour. When you're in an area where your coloration is roughly similar to the environment (for instance, forest green in a forest), you can use the minor, single action application of this ability to make localized changes that help you blend into your surroundings, gaining a +2 circumstance bonus to Stealth checks until your surroundings change in coloration or pattern.</p>"
+		},
+		"Venomtail Kobold": {
+			"name": "Venomtail Kobold",
+			"description": "<p>A vestigial spur in your tail secretes one dose of deadly<br />venom each day. You gain the @Compendium[pf2e.actionspf2e.ev8OHpBO3xq3Zt08]{Tail Toxin}action.</p>"
+		},
+		"Versatile Heritage": {
+			"name": "Herencia Versátil",
+			"description": "<p>La versatilidad y la ambición de la humanidad han impulsado su ascenso hasta ser la ascendencia más común en la mayoría de las naciones del mundo. Selecciona una dote general de tu elección para la cual cumplas los requisitos (como con tu dote de ascendencia, puedes seleccionar esta dote general en cualquier momento durante la creación del personaje).</p>"
+		},
+		"Vine Leshy": {
+			"name": "Leshy de parra",
+			"description": "<p>The prehensile vines woven into your body grant you unmatched skill at climbing. You do not need to have any hands free to @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climb}. Additionally, if you roll a success on an Athletics check to climb, you get a critical success instead.</p>"
+		},
+		"Vivacious Gnome": {
+			"name": "Gnomo vivaracho",
+			"description": "<p>You have an incredibly strong connection to the positive energy that flows through the First World, making it harder to attack your life force with negative energy. You gain negative resistance equal to half your level (minimum 1). When you have the @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Doomed} condition, the condition affects you as if its value was 1 lower than it actually is (doomed 1 has no effect, doomed 2 causes you to die at @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Dying} 3, and so on).</p>"
+		},
+		"Warmarch Hobgoblin": {
+			"name": "Warmarch Hobgoblin",
+			"description": "<p>You come from a line of wandering mercenaries, constantly on the march and scavenging food on the trail. If you fail, but not critically fail, to @Compendium[pf2e.actionspf2e.49y9Ec4bDii8pcD3]{Subsist} in the wilderness, you can still keep yourself fed with poor meals. When exploring, you can @Compendium[pf2e.actionspf2e.JuqmIAnkL9hVGai8]{Hustle} twice as long before you have to stop.</p>"
+		},
+		"Warrenbred Hobgoblin": {
+			"name": "Warrenbred Hobgoblin",
+			"description": "<p>Your ancestors lived underground. Your ears are larger than those of other hobgoblins and sensitive to echoes. When you are underground, you can use the @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} action to sense @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected} creatures within a 30-foot burst instead of a 15-foot burst. In addition, if you roll a success on an Acrobatics check to @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Squeeze}, you get a critical success instead.</p>"
+		},
+		"Wellspring Gnome": {
+			"name": "Gnomo manantial",
+			"description": "<p>Some other source of magic has a greater hold on you than the primal magic of your fey lineage does. This connection might come from an occult plane or an ancient occult song; a deity, celestial, or fiend; magical effluent left behind by a mage war; or ancient rune magic.</p>\n<p>Choose arcane, divine, or occult. You gain one cantrip from that magical tradition (CRB 307-315). You can cast this spell as an innate spell at will, as a spell of your chosen tradition. A cantrip is heightened to a spell level equal to half of your level rounded up. Whenever you gain a primal innate spell from a gnome ancestry feat, change its tradition from primal to your chosen tradition.</p>"
+		},
+		"Wetlander Lizardfolk": {
+			"name": "Wetlander Lizardfolk",
+			"description": "<p>Your family is descended from the most common lizardfolk heritage, and you are accustomed to aquatic environments. You gain a 15-foot @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Swim} Speed.</p>"
+		},
+		"Whisper Elf": {
+			"name": "Elfo de los susurros",
+			"description": "<p>Your ears are finely tuned, able to detect even the slightest whispers of sound. As long as you can hear normally, you can use the @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} action to sense @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected} creatures in a 60-foot cone instead of a 30-foot cone. You also gain a +2 circumstance bonus to locate undetected creatures that you could hear within 30 feet with a seek action.</p>"
+		},
+		"Wildwood Halfling": {
+			"name": "Mediano de las forestas salvajes",
+			"description": "<p>You hail from deep in a jungle or forest, and you've learned how to use your small size to wriggle through undergrowth, vines, and other obstacles. You ignore difficult terrain from trees, foliage, and undergrowth.</p>"
+		},
+		"Winter Catfolk": {
+			"name": "Félido invernal",
+			"description": "<p>You have a thick coat of fur that protects you from the cold. You gain cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).</p>"
+		},
+		"Wintertouched Human": {
+			"name": "Wintertouched Human",
+			"description": "<p>The power of winter flows through you. This heritage is most common among the Jadwiga of Irrisen, due to their descent from Baba Yaga, and certain Erutaki touched by the spirits. You gain cold resistance equal to half your level (minimum 1), and you treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).</p>"
+		},
+		"Woodland Elf": {
+			"name": "Elfo silvano",
+			"description": "<p>You're adapted to life in the forest or the deep jungle, and you know how to climb trees and use foliage to your advantage. When @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climbing} trees, vines, and other foliage, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have @Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]{Quick Climb}). This doesn't affect you if you're using a climb Speed.</p>\n<p>You can always use the @Compendium[pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Take Cover}action when you are within forest terrain to gain cover, even if you're not next to an obstacle you can take cover behind.</p>"
+		}
+	}
+}
