@@ -1,21 +1,22 @@
 {
-    "name": "foundryvtt-pf2e-lang-es",
-    "title": "Translation: Spanish [PF2E]",
-    "description": "Añade soporte para Español al sistema de juego de Pathfinder 2E",
-    "version": "1.1.2",
-    "minimumCoreVersion": "0.6.0",
-    "compatibleCoreVersion": "0.6.0",
-    "author": "L4D15#2706",
-    "systems": ["pf2e"],
-    "languages":
-    [
-        {
-            "lang": "es",
-            "name": "Español",
-            "path": "es-ES/es.json"
-        }
-    ],
-    "url": "https://gitlab.com/L4D15/foundryvtt-pf2e-lang-es",
-    "manifest": "https://gitlab.com/L4D15/foundryvtt-pf2e-lang-es/raw/master/module.json",
-    "download": "https://gitlab.com/L4D15/foundryvtt-pf2e-lang-es/-/archive/master/foundryvtt-pf2e-lang-es-master.zip"
+  "name": "foundryvtt-pf2e-lang-es",
+  "title": "Translation: Spanish [PF2E]",
+  "description": "Añade soporte para Español al sistema de juego de Pathfinder 2E",
+  "version": "1.1.2",
+  "private": true,
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.6.0",
+  "author": "L4D15#2706",
+  "systems": ["pf2e"],
+  "scripts": ["main.js"],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "static/lang/es.json"
+    }
+  ],
+  "url": "https://gitlab.com/L4D15/foundryvtt-pf2e-lang-es",
+  "manifest": "https://gitlab.com/L4D15/foundryvtt-pf2e-lang-es/raw/master/module.json",
+  "download": "https://gitlab.com/L4D15/foundryvtt-pf2e-lang-es/-/archive/master/foundryvtt-pf2e-lang-es-master.zip"
 }
