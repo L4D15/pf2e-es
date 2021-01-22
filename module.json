@@ -2,7 +2,7 @@
   "name": "foundryvtt-pf2e-lang-es",
   "title": "Translation: Spanish [PF2E]",
   "description": "Añade soporte para Español al sistema de juego de Pathfinder 2E",
-  "version": "1.1.2",
+  "version": "1.2.3",
   "private": true,
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.6.0",
