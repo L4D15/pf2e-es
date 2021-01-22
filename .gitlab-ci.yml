@@ -22,4 +22,4 @@ build:
   artifacts:
     paths:
       - module.json
-      - foundryvtt-pf2e-lant-es.zip
+      - foundryvtt-pf2e-lang-es.zip
