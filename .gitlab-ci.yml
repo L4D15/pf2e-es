@@ -13,12 +13,14 @@ cache:
 
 build:
   stage: build
+  only:
+    - master
   script:
     - export
     - npm ci
     - npm run build
     - mv dist foundryvtt-pf2e-lang-es
-    - zip foundryvtt-pf2e-lant-es.zip -r foundryvtt-pf2e-lang-es
+    - zip foundryvtt-pf2e-lang-es.zip -r foundryvtt-pf2e-lang-es
   artifacts:
     paths:
       - module.json
