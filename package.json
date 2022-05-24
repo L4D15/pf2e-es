@@ -1,6 +1,6 @@
 {
   "name": "foundryvtt-pf2e-lang-es",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "FoundryVTT Pathfinder 2E ES ------------ Translation to Spanish of the Pathfinder 2E system for Foundry VTT.",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
