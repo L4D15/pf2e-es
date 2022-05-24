@@ -1,6 +1,6 @@
 ## FoundryVTT Pathfinder 2E ES
 
-Translation to Spanish of the Pathfinder 2E system for Foundry VTT. Compendium content is been translated, but its scope is greater than what we can translate currently, so don't expect every single entry in the compendium to be translated. Consider contributing to the translation to speed up the process (see below).
+Translation to Spanish of the Pathfinder 2E system for Foundry VTT. This module does NOT contain compendium, only the base system translation.
 
 ## How can I collaborate?
 
