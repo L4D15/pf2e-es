@@ -40,7 +40,7 @@ module.exports = (env, argv) => {
   const foundryConfig = getFoundryConfig();
 
   if (foundryConfig !== undefined && argv.mode !== 'production') {
-    config.output.path = path.join(foundryConfig.dataPath, 'Data', 'modules', 'foundryvtt-pf2e-lang-es');
+    config.output.path = path.join(foundryConfig.dataPath, 'Data', 'modules', 'pf2e-es');
 
     console.log(`Path: ${config.output.path}`);
   }
