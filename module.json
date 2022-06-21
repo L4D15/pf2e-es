@@ -17,6 +17,6 @@
     }
   ],
   "url": "https://gitlab.com/L4D15/foundryvtt-pf2e-lang-es",
-  "manifest": "https://gitlab.com/L4D15/foundryvtt-pf2e-lang-es/-/jobs/artifacts/master/raw/module.json?job=build",
-  "download": "https://gitlab.com/L4D15/foundryvtt-pf2e-lang-es/-/jobs/artifacts/master/raw/foundryvtt-pf2e-lang-es.zip?job=build"
+  "manifest": "https://github.com/L4D15/pf2e-es/blob/master/module.json",
+  "download": "https://github.com/L4D15/pf2e-es/releases/download/2.0.2/pf2e-es.zip"
 }

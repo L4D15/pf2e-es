@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/L4D15/foundryvtt-pf2e-lang-es.git"
+    "url": "git+ssh://git@github.com:L4D15/pf2e-es.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/L4D15/foundryvtt-pf2e-lang-es/issues"
+    "url": "https://github.com/L4D15/pf2e-es/issues"
   },
-  "homepage": "https://gitlab.com/L4D15/foundryvtt-pf2e-lang-es#readme"
+  "homepage": "https://github.com/L4D15/pf2e-es"
 }
